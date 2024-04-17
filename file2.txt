@@ -1,4 +1,0 @@
-Hola Camaradas!
-12
-Hola!
-Curso git!
